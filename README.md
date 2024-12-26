@@ -12,11 +12,23 @@ I'm a passionate Full Stack Developer who loves creating modern and interactive 
 
 ```javascript
 const skills = {
-    frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
-    backend: ['Node.js', 'Express', 'RESTful APIs'],
-    design: ['Figma', 'Spline', '3D Modeling'],
-    tools: ['Git', 'VS Code', 'Docker'],
-    architecture: ['Microservices', 'Clean Code', 'SOLID Principles']
+    frontend: [
+        'HTML, CSS',
+        'TypeScript, JavaScript',
+        'React, Vite.js, Next.js',
+        'Vue.js, Angular.js (basic knowledge)',
+        'React Context, Redux'
+    ],
+    backend: [
+        'C#, TypeScript',
+        '.Net Core, Node.js, Express.js',
+        'SQL, MongoDB, Firebase',
+        'Json Web Token',
+        'Security Vulnerabilities'
+    ],
+    education: [
+        'Computer Technologies - Atatürk University'
+    ]
 };
 ```
 
