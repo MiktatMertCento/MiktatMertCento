@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Miktat Mert Cento
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF774&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Developer;.NET+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF774&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Developer;Next+Developer;.NET+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
