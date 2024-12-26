@@ -1,43 +1,51 @@
 # 👋 Hi there, I'm Miktat Mert Cento
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF774&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;3D+Design+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF774&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Developer;.NET+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer who loves creating modern and interactive web experiences. My focus is on building performant and beautiful applications using cutting-edge technologies.
+I'm a Full Stack Developer based in Turkey, passionate about creating modern web applications and blockchain solutions. Currently developing exciting projects at HirinGames.
+
+## 📞 Contact
+
+- 📧 Email: me@miktatmert.dev
+- 🌐 Website: miktatmert.dev
+- 📱 Phone: +90 (542) 892 28 27
+- 🔗 LinkedIn: linkedin.com/in/MiktatMertCento
+- 💻 GitHub: github.com/MiktatMertCento
 
 ### 🛠️ Tech Stack
 
 ```javascript
 const skills = {
     frontend: [
-        'HTML, CSS',
-        'TypeScript, JavaScript',
-        'React, Vite.js, Next.js',
-        'Vue.js, Angular.js (basic knowledge)',
-        'React Context, Redux'
+        'HTML', 'CSS', 'TypeScript', 'JavaScript',
+        'ReactJS', 'Tailwind CSS', 'Bootstrap',
+        'Redux.JS', 'RecoilJS', 'React Native',
+        'Flutter'
     ],
     backend: [
-        'C#, TypeScript',
-        '.Net Core, Node.js, Express.js',
-        'SQL, MongoDB, Firebase',
-        'Json Web Token',
-        'Security Vulnerabilities'
+        'C# (.Net Core 7+)', 'Node.JS',
+        'Express.JS', 'MVC',
+        'RESTful APIs', 'MySQL',
+        'MongoDB', 'Oracle'
     ],
-    education: [
-        'Computer Technologies - Atatürk University'
+    tools: [
+        'GitHub'
     ]
 };
 ```
 
-## 🎯 Current Focus
+## 🎓 Education
 
-- 🔭 I'm currently working on building modern projects
-- 🌱 I'm exploring 3D web animations and interactive experiences
-- 👯 I'm looking to collaborate on innovative web projects
-- 💬 Ask me about web development and UI/UX design
+- Computer Technologies - Atatürk University (Distance Education)
+
+## 🌐 Languages
+
+- Turkish: Native or Bilingual Proficiency
+- English: Limited Working Proficiency
 
 ## 📊 GitHub Stats
 
@@ -50,8 +58,8 @@ const skills = {
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MiktatMertCento)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MiktatMertCento)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://miktatmert.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MiktatMertCento)
   
 </div>
 
